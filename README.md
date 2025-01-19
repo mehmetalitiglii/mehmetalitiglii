@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" style="display: inline-block; vertical-align: middle;">, I'm Mehmet Ali Tığlı</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%" style="display: inline-block; vertical-align: middle;">, I'm Mehmet Ali Tığlı</h1>
 <h3 align="center">.NET Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetalitiglii&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetalitiglii" /> </p>
@@ -6,7 +6,7 @@
 - 💻 I work as a passionate Backend Developer.
 - 🌱 I'm currently improving my skills in BackEnd technologies.
     <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" align= "right" />
-- 📫 How to reach me linkedin.com/in/mehmet-ali-tığlı-311b81237/
+- 📫 How to reach me <a href="https://linkedin.com/in/mehmet-ali-tığlı-311b81237/" target="_blank">Mehmet Ali Tığlı LinkedIn</a>
 - 👯 I am open to collaboration and capable of working harmoniously <br/> with a team.
 - 💬 Ask me about anything.
 - 🤝🏻 I am open to job offers.
