@@ -2,6 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%" style="display: inline-block; vertical-align: middle;">, I'm Mehmet Ali Tığlı</h1>
 <h3 align="center">.NET Developer</h3>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetalitiglii&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetalitiglii" /> </p>
 
 
 - 💻 I work as a passionate Backend Developer.
