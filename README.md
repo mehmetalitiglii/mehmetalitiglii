@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mehmet Ali Tığlı</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="7%" style="display: inline-block; vertical-align: middle;">, I'm Mehmet Ali Tığlı</h1>
 <h3 align="center">.NET Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetalitiglii&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetalitiglii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetalitiglii" alt="mehmetalitiglii" /></a> </p>
-
 
 
 
