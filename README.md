@@ -5,11 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetalitiglii" alt="mehmetalitiglii" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mehmetalitiglii" target="blank"><img src="https://img.shields.io/twitter/follow/mehmetalitiglii?logo=twitter&style=for-the-badge" alt="mehmetalitiglii" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Mehmet&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=000000&size=24" alt="Example Usage - README Typing SVG" style="display: inline-block; vertical-align: middle;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="7%" style="display: inline-block; vertical-align: middle;">
+</div>
+
+- 💻 I work as a passionate Full Stack Developer.
+- 🌱 I'm currently improving my skills in FrontEnd & BackEnd technologies.
+    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" align= "right" />
+- ⚡ I can help with FrontEnd & BackEnd.
+- 📫 How to reach me https://www.linkedin.com/in/mehmet-polat-/
+- 👯 I am open to collaboration and capable of working harmoniously <br/> with a team.
+- 💬 Ask me about anything.
+- 🤝🏻 I am open to job offers.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
