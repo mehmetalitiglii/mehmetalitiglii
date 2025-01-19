@@ -11,7 +11,7 @@
 - 💬 Ask me about anything.
 - 🤝🏻 I am open to job offers.
 
-
+--------------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
