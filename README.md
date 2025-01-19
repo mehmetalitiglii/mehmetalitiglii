@@ -3,14 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetalitiglii&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetalitiglii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetalitiglii" alt="mehmetalitiglii" /></a> </p>
-
-
-
 - 💻 I work as a passionate Backend Developer.
 - 🌱 I'm currently improving my skills in BackEnd technologies.
     <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" align= "right" />
-- 📫 https://www.linkedin.com/in/mehmet-ali-t%C4%B1%C4%9Fl%C4%B1-311b81237/
+- 📫 How to reach me linkedin.com/in/mehmet-ali-tığlı-311b81237/
 - 👯 I am open to collaboration and capable of working harmoniously <br/> with a team.
 - 💬 Ask me about anything.
 - 🤝🏻 I am open to job offers.
