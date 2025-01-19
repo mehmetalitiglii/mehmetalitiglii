@@ -6,9 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetalitiglii" alt="mehmetalitiglii" /></a> </p>
 
 
-<div align="center">
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="7%" style="display: inline-block; vertical-align: middle;">
-</div>
+
 
 - 💻 I work as a passionate Full Stack Developer.
 - 🌱 I'm currently improving my skills in FrontEnd & BackEnd technologies.
